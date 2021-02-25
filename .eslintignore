@@ -1,0 +1,4 @@
+/dist/
+/*.js
+/tests/
+/node_modules/
